@@ -1,0 +1,10 @@
+feature_set: medium
+target: target
+stacker_weights:
+- 0.4999999970552263
+- 0.5000000029447738
+base_models:
+- name: lgbm_fast_a
+  path: runs/20260429-214740-2b2392/final_lgbm_fast_a.pkl
+- name: lgbm_fast_b
+  path: runs/20260429-214740-2b2392/final_lgbm_fast_b.pkl

@@ -1,0 +1,1 @@
+This machines contains 4 3090 GPU. Utilize this resources while training and inferencing model. OOM error may happen since other users are also using the hardware. 
